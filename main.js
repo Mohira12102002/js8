@@ -41,7 +41,10 @@ const sentences = ["alice and bob love google", "i think so too", "this is great
   
 
 
-//
+//3.Parametr sifatida bitta gap va son qabul qiladigan function yarating, gapdagi so'zlar sonini berilgan songa qarab qisqartiring. 
+// masalan => gap = "Hello how are you Contestant", son = 4, result => "Hello how are you"
+// masalan => gap = "What is the solution to this problem", son = 4, result => "What is the solution"
+// masalan => gap = "chopper is not a tanuki", son = 5, result => "chopper is not a tanuki"
 
 const gap = "Hello how are you Contestant";
 const son = 4;
